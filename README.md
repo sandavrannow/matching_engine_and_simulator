@@ -2,7 +2,7 @@
 
 This is a project that can run a order matching simulation according to the users simulation preferences. 
 
-User can determine how many traders, how many different stocks, quantity per stock type and quantity of cash is in the simulation. 
+User can determine how many traders, quantity of stock types, quantity per stock type and quantity of cash is in the simulation. 
 
 Also, users can determine how many trades should be execute, the range of order quantities and the range of order values. 
 
